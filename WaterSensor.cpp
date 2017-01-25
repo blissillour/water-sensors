@@ -1,8 +1,6 @@
 
 #include "WaterSensor.h"
 
-
-
 WaterSensor::WaterSensor(uint8_t DS18S20_Pin, uint8_t DHT_Pin, uint8_t PH_address,uint8_t DO_address)
 {
   WaterSensor::DS18S20_Pin = DS18S20_Pin;
