@@ -1,7 +1,7 @@
 # Water Sensor Library
 
 
-This library help to read the values of the sensors used in the MVP Water Waziup :
+This library WaterSensor help to read the values of the sensors used in the MVP Water Waziup :
  
  - atlas DO sensor in I2C mode
  - atlas PH sensor in I2C mode
