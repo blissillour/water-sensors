@@ -14,7 +14,7 @@ This library help to read the values of the sensors used in the MVP Water Waziup
 
 The following library are required to use the waterSensor lib :
 
-  - [OneWire](https://github.com/RobTillaart/Arduino/tree/master/libraries/DHTlib)
+  - [OneWire](https://github.com/PaulStoffregen/OneWire)
 
   - [DHT](https://github.com/blissillour/water-sensors/tree/master/libraries/DHT)
 
