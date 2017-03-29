@@ -107,8 +107,6 @@ void WaterSensor::getPHSensorValue(char* data)
 
 void WaterSensor::getDOSensorValue(char* data)
 {
-	
-	
 	byte flag = 0;               
 	byte i = 0; 			
 	char* DO,sat;
